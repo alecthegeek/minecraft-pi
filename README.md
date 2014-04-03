@@ -53,6 +53,16 @@ First check that you have all the parts you need to get your Raspberry Pi set up
 
 	*Note: You will require an internet connection to be able to download and install the files.*
 
+#### Advanced Install
+
+9.	If you have a lot of Raspberry Pi systems to set up you can install Minecraft with the following command
+
+	```
+	wget http://tinyurl.com/MinecraftOnPi -O - | bash
+	```
+
+	This will also make the Minecraft libraries avliable anywhere without having to use `cd mcpi`. Start Mincraft with `minecraft-pi`
+
 ## Step 1: Post a message to Minecraft Pi
 
 We are going to have some fun with Minecraft Pi and the chat window.
